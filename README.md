@@ -1,7 +1,7 @@
 webanketa-task
 ==============
 
-Several automates tests for webanketa.com
+Several automated tests for webanketa.com
 Using Ruby, selenium-webdriver, page-object, rspec.
 
 1 scenario:
